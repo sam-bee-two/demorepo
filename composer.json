@@ -4,5 +4,10 @@
     "version": "0.0.3",
     "require-dev": {
         "phpunit/phpunit": "*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master#123": "2.1.0"
+        }
     }
 }
