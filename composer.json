@@ -7,7 +7,13 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master#06dc08f4ed5878a95b1cf1f4b3e2395be3b5d260": "2.1.x-dev"
+            "dev-master#471c93dadcd3f25b2c732c63b7d8fcf5e55d15f2": "2.1.x-dev"
         }
+    },
+    "provide": {
+        "sam-bee/demo-repo": "@dev"
+    },
+    "replace": {
+        "sam-bee/demo-repo": "@dev"
     }
 }
